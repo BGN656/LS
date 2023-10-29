@@ -1,17 +1,25 @@
 Робота з gihub
 
+Статусы файла
+
+Untracked -  добавили файл
+Staged - после  git add
+Modified - после изменения существующего файла
+Commited -  после комита
+ 
+
 Отмена изменения
 
-Git clean -f //
+Git clean -f //Untracked
 
-Git restore  <файл> //
-Git restore . //
+Git restore  <файл> //Modified 
+Git restore . //Modified 
 
-Git restore --staged //
-Git reset   //
+Git restore --staged //Staged 
+Git reset   //Staged 
 
 
-Git reset HEAD~1 //
+Git reset HEAD~1 //Commited 
 
 
 
