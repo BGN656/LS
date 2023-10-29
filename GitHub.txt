@@ -22,4 +22,8 @@ Git reset   //Staged
 Git reset HEAD~1 //Commited 
 
 
+Связывание репозиториив
+Git remote add origin <адрес>
 
+
+Git push origin head  // запушить
