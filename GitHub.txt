@@ -1,2 +1,17 @@
 Робота з gihub
 
+Отмена изменения
+
+Git clean -f //
+
+Git restore  <файл> //
+Git restore . //
+
+Git restore --staged //
+Git reset   //
+
+
+Git reset HEAD~1 //
+
+
+
